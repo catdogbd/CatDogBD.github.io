@@ -1,5 +1,3 @@
 [
-    {"Name": "John Doe", "Age": 25, "City": "New York"},
-    {"Name": "Jane Smith", "Age": 30, "City": "San Francisco"},
-    {"Name": "Bob Johnson", "Age": 22, "City": "Chicago"}
+    {"Name": "John Doe", "Age": 25, "City": "New York", "Contact": "123-456-7890", "Status": "Active"}
 ]
