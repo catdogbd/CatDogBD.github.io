@@ -1,3 +1,17 @@
 [
-    {"Name": "John Doe", "Age": 25, "City": "New York", "Contact": "123-456-7890", "Status": "Active"}
+    {
+        "Name": "John Doe",
+        "From": "City A",
+        "GitHubUserID": "johndoe123"
+    },
+    {
+        "Name": "Jane Smith",
+        "From": "City B",
+        "GitHubUserID": "janesmith456"
+    },
+    {
+        "Name": "Bob Johnson",
+        "From": "City C",
+        "GitHubUserID": "bobjohnson789"
+    }
 ]
