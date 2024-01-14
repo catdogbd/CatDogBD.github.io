@@ -1,4 +1,5 @@
 [
-    {"Name": "Sumit", "Age": 25, "City": "Kolkata"},
-    {"Address": "Kolkata Bososri bazar", "Contatct": 9111234455, "Reg Stutas": "Pending"},
+    {"Name": "John Doe", "Age": 25, "City": "New York"},
+    {"Name": "Jane Smith", "Age": 30, "City": "San Francisco"},
+    {"Name": "Bob Johnson", "Age": 22, "City": "Chicago"}
 ]
